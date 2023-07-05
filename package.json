@@ -1,0 +1,15 @@
+{
+  "name": "vow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Pact.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.0"
+  }
+}
